@@ -4,7 +4,7 @@ description: |
   Welcome to our new blog, My Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Nicole Wang 
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
@@ -22,5 +22,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+```{r}
+plot(iris)
+```
 
 
