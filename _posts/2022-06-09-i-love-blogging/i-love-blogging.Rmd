@@ -1,20 +1,25 @@
 ---
 title: "I love blogging"
 description: |
-  A short description of the post.
+  Enjoying in writing about health data science topics.
 author:
   - name: Nicole Wang
-    url: https://example.com/norajones
 date: 2022-06-09
 output:
   distill::distill_article:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r, include=FALSE}
+# Create by create_post("I love blogging")
+# By distill package
+```
+
+These are some thoughts of HDS.
 
 ```{r}
 plot(iris)

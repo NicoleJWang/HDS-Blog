@@ -5,15 +5,32 @@
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Nicole Wang",
         "url": "https://example.com/norajones"
       }
     ],
     "date": "2022-06-09",
     "categories": [],
-    "contents": "\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-06-09T15:22:36+10:00",
-    "input_file": {}
+    "contents": "\n\n\n\n\n\n\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-06-28T09:28:10+10:00",
+    "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2022-06-09-i-love-blogging/",
+    "title": "I love blogging",
+    "description": "Enjoying in writing about health data science topics.",
+    "author": [
+      {
+        "name": "Nicole Wang",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-09",
+    "categories": [],
+    "contents": "\nThese are some thoughts of HDS.\n\n\n\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": "posts/2022-06-09-i-love-blogging/i-love-blogging_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2022-06-28T09:28:18+10:00",
+    "input_file": "i-love-blogging.knit.md"
   }
 ]
