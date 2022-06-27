@@ -5,7 +5,7 @@ description: |
   reading what we have to say!
 author:
   - name: Nicole Wang 
-    url: https://example.com/norajones
+    url: https://www.linkedin.com/in/jiayue-wang-397b7114b/
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
 date: 06-09-2022

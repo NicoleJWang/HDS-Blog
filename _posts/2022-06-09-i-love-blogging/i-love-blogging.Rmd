@@ -4,6 +4,7 @@ description: |
   Enjoying in writing about health data science topics.
 author:
   - name: Nicole Wang
+    url: https://www.linkedin.com/in/jiayue-wang-397b7114b/
 date: 2022-06-09
 output:
   distill::distill_article:
